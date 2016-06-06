@@ -431,7 +431,7 @@ main {
 #code, .CodeMirror {
 	width: 100%;
 	max-width: 100%;
-	height: auto;
+	height: 60vh;
 	max-height: 60vh;
 	border: 1px solid #EEEEEE;
 	margin-bottom: 1em;
